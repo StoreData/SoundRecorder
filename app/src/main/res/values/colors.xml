@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#E4E4E4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="magenta">#D81B60</color>
+    <color name="magenta_dark">#B6144D</color>
+    <color name="white">#ffffff</color>
+    <color name="grey_tab">#CDCDCD</color>
+    <color name="black">#000000</color>
+    <color name="dialogbg">#DDDDDD</color>
+
+
+</resources>
